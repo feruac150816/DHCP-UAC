@@ -84,7 +84,3 @@ Volume          | Description
 `/config`       | Configuration directory
 
 
-## License
-The content of this project itself is licensed under the [MIT License](LICENSE).
-
-View [license information](https://www.isc.org/licenses/) for the software contained in this image.
