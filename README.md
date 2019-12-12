@@ -12,14 +12,14 @@ ISC DHCP Server in a Docker container, with configuration files in a volume, and
 Pull the latest image from Docker Hub:
 
 ```shell
-docker pull wastrachan/docker-dhcpd
+docker pull feruac150816/docker-dhcpd
 ```
 
 #### Manually
 Clone this repository, and run `make build` to build an image:
 
 ```shell
-git clone https://github.com/wastrachan/docker-dhcpd.git
+git clone https://github.com/feruac150816/DHCP-UAC.git
 cd docker-dhcpd
 make build
 ```
